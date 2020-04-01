@@ -10,6 +10,9 @@ A simple javascript code which captures Salesforce data changes in a cosmos db.
 npm install jsforce --save
 
 ```
+## blog
+
+[subscribe to Salesforce Streaming Api in Nodejs]https://gaogang.wordpress.com/2020/03/31/subscribe-to-salesforce-streaming-api-in-nodejs/
 
 ## Key steps
 
