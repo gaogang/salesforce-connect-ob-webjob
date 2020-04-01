@@ -12,7 +12,7 @@ npm install jsforce --save
 ```
 ## blog
 
-[subscribe to Salesforce Streaming Api in Nodejs]https://gaogang.wordpress.com/2020/03/31/subscribe-to-salesforce-streaming-api-in-nodejs/
+[subscribe to Salesforce Streaming Api in Nodejs](https://gaogang.wordpress.com/2020/03/31/subscribe-to-salesforce-streaming-api-in-nodejs/)
 
 ## Key steps
 
